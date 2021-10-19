@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Engineering Psychology, Oregon State University, Expected 2024
+* M.S. in Psychology, Oregon State University, Expected 2022
+* B.S. in Psychology, University of Central Missouri, 2020
 
 Work experience
 ======
